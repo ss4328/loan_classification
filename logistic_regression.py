@@ -1,0 +1,1 @@
+#!/usr/bin/env python3# -*- coding: utf-8 -*-"""Created on Tue Mar 15 19:20:48 2022@author: shivanshsuhane"""import pandas as pddf = pd.read_csv ('data.csv')print(df)
